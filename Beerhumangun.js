@@ -60,7 +60,7 @@ function Determinewinner(userChoice,ComputerChoice)
 }
 function playGAme()
 {
-    var input = prompt("Enter beer or human or gun");
+    var input = "Enter beer or human or gun";
 
     //getuserChoice(prompt);
     //getComputerChoice();
